@@ -4,7 +4,6 @@ version = 7.x-dev
 core = 7.x
 dependencies[] = islandora
 dependencies[] = islandora_solr_search
-dependencies[] = islandora_collection_manager
 dependencies[] = islandora_content_model_forms
 dependencies[] = php_lib
 dependencies[] = objective_forms
